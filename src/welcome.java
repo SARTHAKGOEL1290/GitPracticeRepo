@@ -7,5 +7,6 @@ public class welcome {
         System.out.println("this is third commit");
 
         System.out.println("this code is specific to bug fix");
+        System.out.println("this code is introduced to generate merge conflicts b/w bugfix branch and master");
     }
 }
