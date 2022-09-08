@@ -7,5 +7,8 @@ public class welcome {
         System.out.println("this is third commit");
 
         System.out.println("this code is specific to bug fix");
+        System.out.println("this code is fourth commit on master after merging the bugFix branch on github using pull request after that taking the pull on local master branch");
+
+
     }
 }
